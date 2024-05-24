@@ -1,0 +1,70 @@
+Criminal_ID,Name,Age,Gender,Criminal_level,Crime_type,Identity_mark,Address,Image_Path
+901,Jack Ripper,56,Male,High Risk,Serial Killer,Scar on left eyebrow,France,images/Jack Ripper/1.jpg
+901,Jack Ripper,56,Male,High Risk,Serial Killer,Scar on left eyebrow,France,images/Jack Ripper/2.jpg
+902,Pablo Escobar,45,Male,Rish,Drug Lord,Scar on left chin and mole on head,Colombia,images/Pablo Escobar/1.jpg
+902,Pablo Escobar,45,Male,Rish,Drug Lord,Scar on left chin and mole on head,Colombia,images/Pablo Escobar/2.jpg
+902,Pablo Escobar,45,Male,Rish,Drug Lord,Scar on left chin and mole on head,Colombia,images/Pablo Escobar/3.jpg
+903,Dawood Ibrahim,67,male,High Risk,Terrorist,Mole on center of the head,India,images/Dawood Ibrahim/1.jpg
+903,Dawood Ibrahim,67,male,High Risk,Terrorist,Mole on center of the head,India,images/Dawood Ibrahim/2.jpg
+903,Dawood Ibrahim,67,male,High Risk,Terrorist,Mole on center of the head,India,images/Dawood Ibrahim/3.jpg
+903,Dawood Ibrahim,67,male,High Risk,Terrorist,Mole on center of the head,India,images/Dawood Ibrahim/4.jpg
+904,Bhadreshkumar Chetanbhai Patel,33,Male,Risk,Killer,scar on nose,india,images/Bhadreshkumar Chetanbhai Patel/1.jpg
+904,Bhadreshkumar Chetanbhai Patel,33,Male,Risk,Killer,scar on nose,india,images/Bhadreshkumar Chetanbhai Patel/2.jpg
+904,Bhadreshkumar Chetanbhai Patel,33,Male,Risk,Killer,scar on nose,india,images/Bhadreshkumar Chetanbhai Patel/3.jpg
+904,Bhadreshkumar Chetanbhai Patel,33,Male,Risk,Killer,scar on nose,india,images/Bhadreshkumar Chetanbhai Patel/4.jpg
+905,Donald Eugene Fields Ii,59,Male,Wanted,Sex Trafficking,Mole on nose,Missouri,images/Donald Eugene Fields Ii/1.jpg
+905,Donald Eugene Fields Ii,59,Male,Wanted,Sex Trafficking,Mole on nose,Missouri,images/Donald Eugene Fields Ii/2.jpg
+905,Donald Eugene Fields Ii,59,Male,Wanted,Sex Trafficking,Mole on nose,Missouri,images/Donald Eugene Fields Ii/3.jpg
+906,Ruja Ignatova,43,female,Wanted,Fraud attempt,Mole on eyebrows,German,images/Ruja Ignatova/1.jpg
+906,Ruja Ignatova,43,female,Wanted,Fraud attempt,Mole on eyebrows,German,images/Ruja Ignatova/2.jpg
+907,Vitel Homme Innocent,37,Male,Risk,Kidnapping,"Scar on nose and head,mole on left hand",Haitian,images/Vitel Homme Innocent/1.jpg
+907,Vitel Homme Innocent,37,Male,Risk,Kidnapping,"Scar on nose and head,mole on left hand",Haitian,images/Vitel Homme Innocent/2.jpg
+907,Vitel Homme Innocent,37,Male,Risk,Kidnapping,"Scar on nose and head,mole on left hand",Haitian,images/Vitel Homme Innocent/3.jpg
+908,Wilver Villegas Palomino,42,Male,High Risk,Narco terrorist,scar on eye and mole on head,Colombia,images/Wilver Villegas Palomino/1.jpg
+908,Wilver Villegas Palomino,42,Male,High Risk,Narco terrorist,scar on eye and mole on head,Colombia,images/Wilver Villegas Palomino/2.jpg
+910,Alejandro Rosales Castillo,28,Male,Risk,Killer,Scar on left ear,America,images/Alejandro Rosales Castillo/1.jpg
+910,Alejandro Rosales Castillo,28,Male,Risk,Killer,Scar on left ear,America,images/Alejandro Rosales Castillo/2.jpg
+911,Alexis Flores,43,Male,High Risk,"Kidnapping , Murder",Scars on his forehead and right cheek,Honduras,images/Alexis Flores/1.jpg
+911,Alexis Flores,43,Male,High Risk,"Kidnapping , Murder",Scars on his forehead and right cheek,Honduras,images/Alexis Flores/2.jpg
+911,Alexis Flores,43,Male,High Risk,"Kidnapping , Murder",Scars on his forehead and right cheek,Honduras,images/Alexis Flores/3.jpg
+912,Arnoldo Jimenez,38,Male,Risk,Murder,Mole on forehead and scar on nose,America,images/Arnoldo Jimenez/1.jpg
+912,Arnoldo Jimenez,38,Male,Risk,Murder,Mole on forehead and scar on nose,America,images/Arnoldo Jimenez/2.jpg
+912,Arnoldo Jimenez,38,Male,Risk,Murder,Mole on forehead and scar on nose,America,images/Arnoldo Jimenez/3.jpg
+913,Omar Alexander Cardenas,39,Male,High Risk,Murder,Scar on left eyebrow,America,images/Omar Alexander Cardenas/1.jpg
+913,Omar Alexander Cardenas,39,Male,High Risk,Murder,Scar on left eyebrow,America,images/Omar Alexander Cardenas/2.jpg
+914,Yulan Adonay Archaga Carias,47,Male,High Risk,Drugs and machine guns importation,Mole on right hand ,Honduras,images/Yulan Adonay Archaga Carias/1.jpg
+914,Yulan Adonay Archaga Carias,47,Male,High Risk,Drugs and machine guns importation,Mole on right hand ,Honduras,images/Yulan Adonay Archaga Carias/2.jpg
+914,Yulan Adonay Archaga Carias,47,Male,High Risk,Drugs and machine guns importation,Mole on right hand ,Honduras,images/Yulan Adonay Archaga Carias/3.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/1.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/2.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/3.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/4.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/5.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/6.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/7.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/8.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/9.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/10.jpg
+041,Gayathri,22,Female,high,Fraud,mole on nose,coimbatore,images/Gayathri/11.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/1.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/2.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/3.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/4.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/5.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/6.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/7.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/8.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/9.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/10.jpg
+042,Geetha,21,Female,High,cybercrime,scar on forehead,Coimbatore,images/Geetha/11.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/1.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/2.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/3.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/4.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/5.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/6.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/7.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/8.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/9.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/10.jpg
+508,Harish,21,Male,High,Killer,Mole on eye,Theni,images/Harish/11.jpg
